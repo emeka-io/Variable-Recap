@@ -9,6 +9,7 @@ print(s, j, k) # this prints all the variables in one line
 x, y = input('Enter two numbers: ').split()
 print(f'Number of tables: {x}')
 print(f'Number of chairs: {y}')
+print("are you ok?")
 
 # takimg 3 inputs using 'split()'
 a, b, c = input("Enter three numbers: ").split()
