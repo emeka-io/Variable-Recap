@@ -3,6 +3,7 @@ name = 'John Smith'
 age = 20 
 country = "USA"
 new_patient = True
+print("hello")
 print(type(age))
 
 #Getting input
