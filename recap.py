@@ -5,6 +5,7 @@ country = "USA"
 new_patient = True
 print("HEYOOO!  ")
 print("let's go")
+print("hi")
 print("hello")
 print(type(age))
 
