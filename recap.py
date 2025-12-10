@@ -7,6 +7,7 @@ print("HEYOOO!  ")
 print("let's go")
 print("hi")
 print("haey")
+print("thy")
 print("hello")
 print(type(age))
 
