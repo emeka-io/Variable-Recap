@@ -7,6 +7,7 @@ print("HEYOOO!  ")
 print("let's go")
 print("hi")
 na = 50
+print("yo")
 print("haey")
 print("thy")
 print("hello")
