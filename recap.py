@@ -6,6 +6,7 @@ new_patient = True
 print("HEYOOO!  ")
 print("let's go")
 print("hi")
+na = 50
 print("haey")
 print("thy")
 print("hello")
