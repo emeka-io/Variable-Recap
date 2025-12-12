@@ -3,7 +3,7 @@ name = 'John Smith'
 age = 20 
 country = "USA"
 new_patient = True
-print("HEYOOO!  ")
+print("HEYOOO!")
 print("let's go")
 print("hi")
 na = 50
@@ -17,7 +17,7 @@ print(type(age))
 #Getting input
 first_name = input("What's your name? ")
 fav_colour = input("What's your favorite color? ")
-print(f"{first_name} likes {fav_colour}")
+purint(f"{first_name} likes {fav_colour}")
 
 #Type conversion
 weight_gram = int(input("What's your weight in grams? "))
