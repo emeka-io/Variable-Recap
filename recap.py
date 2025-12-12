@@ -3,7 +3,7 @@ name = 'John Smith'
 age = 20 
 country = "USA"
 new_patient = True
-print("HEYOOO!")
+print("HEYOO!")
 print("let's go")
 print("hi")
 na = 55
