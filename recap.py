@@ -15,7 +15,7 @@ print("hello")
 print(type(age))
 
 #Getting input
-first_name = input("What's your name? ")
+first_name = input("What's your name?: ")
 fav_colour = input("What's your favorite color? ")
 purint(f"{first_name} likes {fav_colour}")
 
