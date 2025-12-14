@@ -1,7 +1,7 @@
 #Defining variables
 name = 'John Smith'
 age = 20 
-cj =48
+c = 48
 country = "USA"
 new_patient = True
 print("HEYOO!")
