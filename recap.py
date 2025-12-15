@@ -4,7 +4,7 @@ age = 20
 c = 48
 country = "USA"
 new_patient = True
-print("HEYOO!")
+print("HEYO!")
 print("let's go")
 print("hi")
 na = 55
