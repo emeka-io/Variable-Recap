@@ -1,6 +1,6 @@
 #Defining variables
 name = 'John Smith'
-age = 20 
+age = h 
 c = 4
 country = "USA"
 new_patient = True
