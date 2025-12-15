@@ -5,7 +5,7 @@ c = 48
 country = "USA"
 new_patient = True
 print("HEYO!")
-print("let's go")
+print("let' go")
 print("hi")
 na = 55
 uy = 55
