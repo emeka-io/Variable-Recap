@@ -10,7 +10,7 @@ print("hi")
 na = 55
 uy = 55
 print("yo")
-print("haey")
+print("hey")
 print("thy")
 print("hello")
 print(type(age))
