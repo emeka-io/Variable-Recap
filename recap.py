@@ -8,7 +8,7 @@ print("HEYO!")
 print("let' go")
 print("hi")
 na = 55
-uy = 55
+uy = 5
 print("yo")
 print("hey")
 print("thy")
