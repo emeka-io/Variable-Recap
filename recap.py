@@ -6,7 +6,7 @@ country = "USA"
 new_patient = True
 print("HEY!")
 print("let' go")
-print("hi")
+print("h")
 ya = 5
 uy = 56
 print("yo")
