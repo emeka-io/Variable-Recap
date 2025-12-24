@@ -9,7 +9,7 @@ print("let' go")
 print("h")
 ya = 5
 uy = 56
-print("yo")
+print("yoo")
 print("hey")
 print("thy")
 print("hello")
