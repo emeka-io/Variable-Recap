@@ -2,7 +2,7 @@
 name = 'John Smith'
 age = 10
 c = 24
-country = "A"
+country = "AS"
 new_patient = True
 print("hey")
 print("let' go")
